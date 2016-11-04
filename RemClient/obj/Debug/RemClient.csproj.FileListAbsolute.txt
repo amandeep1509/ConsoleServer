@@ -1,0 +1,11 @@
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\RemClient\bin\Debug\RemClient.exe.config
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\RemClient\bin\Debug\RemClient.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\RemClient\bin\Debug\RemClient.pdb
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\RemClient\bin\Debug\ConsoleServer.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\RemClient\bin\Debug\ConsoleServer.pdb
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\RemClient\obj\Debug\RemClient.csprojResolveAssemblyReference.cache
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\RemClient\obj\Debug\RemClient.Form1.resources
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\RemClient\obj\Debug\RemClient.Properties.Resources.resources
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\RemClient\obj\Debug\RemClient.csproj.GenerateResource.Cache
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\RemClient\obj\Debug\RemClient.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\RemClient\obj\Debug\RemClient.pdb

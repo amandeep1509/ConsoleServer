@@ -1,0 +1,5 @@
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.pdb
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.pdb
